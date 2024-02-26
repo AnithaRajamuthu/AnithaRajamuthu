@@ -1,7 +1,7 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anitha Rajamuthu
 
-Technical Architect
--------------------
+Principal Technical Architect
+-----------------------------
 
 Experienced and forward-thinking technology leader with a robust background in distributed systems, software engineering, and cutting-edge product design. Recognized for expertise in cloud-native application development, technical leadership, and architectural prowess
 
