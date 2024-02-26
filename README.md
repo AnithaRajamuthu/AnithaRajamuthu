@@ -1,4 +1,4 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anitha Rajamuthu
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Anitha Rajamuthu
 
 Principal Technical Architect
 -----------------------------
@@ -12,6 +12,7 @@ Experienced and forward-thinking technology leader with a robust background in d
 * 🧠  I'm learning Cloud Architect
 * 🤝  I'm open to collaborating on System Design, Cloud - Solution Architecting , Integrations
 * ⚡  Expanded knowledge on DevOps Architecting too
+
 
 <a href="https://www.github.com/AnithaRajamuthu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnithaRajamuthu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
