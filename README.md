@@ -12,6 +12,7 @@ Experienced and forward-thinking technology leader with a robust background in d
 * 🧠  I'm learning Cloud Architect
 * 🤝  I'm open to collaborating on System Design, Cloud - Solution Architecting , Integrations
 * ⚡  Expanded knowledge on DevOps Architecting too
+*   Skills: Full-stack development, Microservice Architecture , No SQL - Mongo DB , RDBMS - Oracle , MySQL , Product Management 
 
 
 <a href="https://www.github.com/AnithaRajamuthu" target="_blank" rel="noreferrer"><img
