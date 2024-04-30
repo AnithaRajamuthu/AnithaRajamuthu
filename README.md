@@ -1,4 +1,4 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Anitha Rajamuthu
+### Hi , ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome & Nice to see you here. This is Anitha Rajamuthu
 
 Principal Technical Architect
 -----------------------------
@@ -10,9 +10,9 @@ Experienced and forward-thinking technology leader with a robust background in d
 * ✉️  You can contact me at [anitha.mca@gmail.com](mailto:anitha.mca@gmail.com)
 * 🚀  I'm currently working on [Microservice Architecture - SaaS And Subscription Commerce Billing](http://console.cloud.vmware.com/)
 * 🧠  I'm learning Cloud Architect
-* 🤝  I'm open to collaborating on System Design, Cloud - Solution Architecting , Integrations
-* ⚡  Expanded knowledge on DevOps Architecting too
-*   Skills: Full-stack development, Microservice Architecture , No SQL - Mongo DB , RDBMS - Oracle , MySQL , Product Management 
+* 🤝  I'm open to collaborating on Distributed Systems - System Design, Cloud - Solution Architecting , Integrations
+* ⚡  Expanded knowledge on DevOps Culture too
+*   Skills: Full-stack development, Microservice Architecture , No SQL - Mongo DB , RDBMS - Oracle , MySQL , Docker , Kubernetes , continuous learner ! 
 
 
 <a href="https://www.github.com/AnithaRajamuthu" target="_blank" rel="noreferrer"><img
